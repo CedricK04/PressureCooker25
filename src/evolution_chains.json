@@ -1,0 +1,4091 @@
+{
+  "BULBASAUR": [
+    "BULBASAUR",
+    "ODDISH",
+    "EXEGGCUTE",
+    "WEEPINBELL",
+    "GLOOM",
+    "IVYSAUR",
+    "TANGELA",
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "ODDISH": [
+    "ODDISH",
+    "EXEGGCUTE",
+    "WEEPINBELL",
+    "GLOOM",
+    "IVYSAUR",
+    "TANGELA",
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "EXEGGCUTE": [
+    "EXEGGCUTE",
+    "WEEPINBELL",
+    "GLOOM",
+    "IVYSAUR",
+    "TANGELA",
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "WEEPINBELL": [
+    "WEEPINBELL",
+    "GLOOM",
+    "IVYSAUR",
+    "TANGELA",
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "GLOOM": [
+    "GLOOM",
+    "IVYSAUR",
+    "TANGELA",
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "IVYSAUR": [
+    "IVYSAUR",
+    "TANGELA",
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "TANGELA": [
+    "TANGELA",
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "VILEPLUME": [
+    "VILEPLUME",
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "VICTREEBEL": [
+    "VICTREEBEL",
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "EXEGGUTOR": [
+    "EXEGGUTOR",
+    "VENUSAUR"
+  ],
+  "CHARMANDER": [
+    "CHARMANDER",
+    "GROWLITHE",
+    "CHARMELEON",
+    "PONYTA",
+    "MAGMAR",
+    "RAPIDASH",
+    "NINETALES",
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "GROWLITHE": [
+    "GROWLITHE",
+    "CHARMELEON",
+    "PONYTA",
+    "MAGMAR",
+    "RAPIDASH",
+    "NINETALES",
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "CHARMELEON": [
+    "CHARMELEON",
+    "PONYTA",
+    "MAGMAR",
+    "RAPIDASH",
+    "NINETALES",
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "PONYTA": [
+    "PONYTA",
+    "MAGMAR",
+    "RAPIDASH",
+    "NINETALES",
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "MAGMAR": [
+    "MAGMAR",
+    "RAPIDASH",
+    "NINETALES",
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "RAPIDASH": [
+    "RAPIDASH",
+    "NINETALES",
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "NINETALES": [
+    "NINETALES",
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "FLAREON": [
+    "FLAREON",
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "ARCANINE": [
+    "ARCANINE",
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "MOLTRES": [
+    "MOLTRES",
+    "CHARIZARD"
+  ],
+  "SQUIRTLE": [
+    "SQUIRTLE",
+    "SLOWPOKE",
+    "PSYDUCK",
+    "GOLDEEN",
+    "SEEL",
+    "KRABBY",
+    "TENTACOOL",
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "SLOWPOKE": [
+    "SLOWPOKE",
+    "PSYDUCK",
+    "GOLDEEN",
+    "SEEL",
+    "KRABBY",
+    "TENTACOOL",
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "PSYDUCK": [
+    "PSYDUCK",
+    "GOLDEEN",
+    "SEEL",
+    "KRABBY",
+    "TENTACOOL",
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "GOLDEEN": [
+    "GOLDEEN",
+    "SEEL",
+    "KRABBY",
+    "TENTACOOL",
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "SEEL": [
+    "SEEL",
+    "KRABBY",
+    "TENTACOOL",
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "KRABBY": [
+    "KRABBY",
+    "TENTACOOL",
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "TENTACOOL": [
+    "TENTACOOL",
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "STARYU": [
+    "STARYU",
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "POLIWHIRL": [
+    "POLIWHIRL",
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "WARTORTLE": [
+    "WARTORTLE",
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "SEADRA": [
+    "SEADRA",
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "SEAKING": [
+    "SEAKING",
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "KINGLER": [
+    "KINGLER",
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "DEWGONG": [
+    "DEWGONG",
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "GOLDUCK": [
+    "GOLDUCK",
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "POLIWRATH": [
+    "POLIWRATH",
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "TENTACRUEL": [
+    "TENTACRUEL",
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "STARMIE": [
+    "STARMIE",
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "CLOYSTER": [
+    "CLOYSTER",
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "VAPOREON": [
+    "VAPOREON",
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "LAPRAS": [
+    "LAPRAS",
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "SLOWBRO": [
+    "SLOWBRO",
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "BLASTOISE": [
+    "BLASTOISE",
+    "GYARADOS"
+  ],
+  "CATERPIE": [
+    "CATERPIE",
+    "METAPOD",
+    "KAKUNA",
+    "PARAS",
+    "VENONAT",
+    "BUTTERFREE",
+    "PARASECT",
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "METAPOD": [
+    "METAPOD",
+    "KAKUNA",
+    "PARAS",
+    "VENONAT",
+    "BUTTERFREE",
+    "PARASECT",
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "KAKUNA": [
+    "KAKUNA",
+    "PARAS",
+    "VENONAT",
+    "BUTTERFREE",
+    "PARASECT",
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "PARAS": [
+    "PARAS",
+    "VENONAT",
+    "BUTTERFREE",
+    "PARASECT",
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "VENONAT": [
+    "VENONAT",
+    "BUTTERFREE",
+    "PARASECT",
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "BUTTERFREE": [
+    "BUTTERFREE",
+    "PARASECT",
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "PARASECT": [
+    "PARASECT",
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "VENOMOTH": [
+    "VENOMOTH",
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "BEEDRILL": [
+    "BEEDRILL",
+    "SCYTHER"
+  ],
+  "PIDGEY": [
+    "PIDGEY",
+    "RATTATA",
+    "SPEAROW",
+    "JIGGLYPUFF",
+    "DITTO",
+    "MEOWTH",
+    "DODUO",
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "RATTATA": [
+    "RATTATA",
+    "SPEAROW",
+    "JIGGLYPUFF",
+    "DITTO",
+    "MEOWTH",
+    "DODUO",
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "SPEAROW": [
+    "SPEAROW",
+    "JIGGLYPUFF",
+    "DITTO",
+    "MEOWTH",
+    "DODUO",
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "JIGGLYPUFF": [
+    "JIGGLYPUFF",
+    "DITTO",
+    "MEOWTH",
+    "DODUO",
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "DITTO": [
+    "DITTO",
+    "MEOWTH",
+    "DODUO",
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "MEOWTH": [
+    "MEOWTH",
+    "DODUO",
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "DODUO": [
+    "DODUO",
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "EEVEE": [
+    "EEVEE",
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "PIDGEOTTO": [
+    "PIDGEOTTO",
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "FARFETCH'D": [
+    "FARFETCH'D",
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "LICKITUNG": [
+    "LICKITUNG",
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "PORYGON": [
+    "PORYGON",
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "RATICATE": [
+    "RATICATE",
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "WIGGLYTUFF": [
+    "WIGGLYTUFF",
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "PERSIAN": [
+    "PERSIAN",
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "FEAROW": [
+    "FEAROW",
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "CHANSEY": [
+    "CHANSEY",
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "DODRIO": [
+    "DODRIO",
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "TAUROS": [
+    "TAUROS",
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "SNORLAX": [
+    "SNORLAX",
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "PIDGEOT": [
+    "PIDGEOT",
+    "KANGASKHAN"
+  ],
+  "EKANS": [
+    "EKANS",
+    "GRIMER",
+    "KOFFING",
+    "NIDORINA",
+    "NIDORINO",
+    "ARBOK",
+    "GOLBAT",
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "GRIMER": [
+    "GRIMER",
+    "KOFFING",
+    "NIDORINA",
+    "NIDORINO",
+    "ARBOK",
+    "GOLBAT",
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "KOFFING": [
+    "KOFFING",
+    "NIDORINA",
+    "NIDORINO",
+    "ARBOK",
+    "GOLBAT",
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "NIDORINA": [
+    "NIDORINA",
+    "NIDORINO",
+    "ARBOK",
+    "GOLBAT",
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "NIDORINO": [
+    "NIDORINO",
+    "ARBOK",
+    "GOLBAT",
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "ARBOK": [
+    "ARBOK",
+    "GOLBAT",
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "GOLBAT": [
+    "GOLBAT",
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "WEEZING": [
+    "WEEZING",
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "MUK": [
+    "MUK",
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "NIDOQUEEN": [
+    "NIDOQUEEN",
+    "NIDOKING"
+  ],
+  "PIKACHU": [
+    "PIKACHU",
+    "MAGNEMITE",
+    "VOLTORB"
+  ],
+  "MAGNEMITE": [
+    "MAGNEMITE",
+    "VOLTORB"
+  ],
+  "RAICHU": [
+    "RAICHU",
+    "ELECTRODE",
+    "ELECTABUZZ",
+    "JOLTEON",
+    "ZAPDOS"
+  ],
+  "ELECTRODE": [
+    "ELECTRODE",
+    "ELECTABUZZ",
+    "JOLTEON",
+    "ZAPDOS"
+  ],
+  "ELECTABUZZ": [
+    "ELECTABUZZ",
+    "JOLTEON",
+    "ZAPDOS"
+  ],
+  "JOLTEON": [
+    "JOLTEON",
+    "ZAPDOS"
+  ],
+  "SANDSHREW": [
+    "SANDSHREW",
+    "CUBONE",
+    "RHYHORN",
+    "DUGTRIO",
+    "MAROWAK",
+    "SANDSLASH",
+    "RHYDON"
+  ],
+  "CUBONE": [
+    "CUBONE",
+    "RHYHORN",
+    "DUGTRIO",
+    "MAROWAK",
+    "SANDSLASH",
+    "RHYDON"
+  ],
+  "RHYHORN": [
+    "RHYHORN",
+    "DUGTRIO",
+    "MAROWAK",
+    "SANDSLASH",
+    "RHYDON"
+  ],
+  "DUGTRIO": [
+    "DUGTRIO",
+    "MAROWAK",
+    "SANDSLASH",
+    "RHYDON"
+  ],
+  "MAROWAK": [
+    "MAROWAK",
+    "SANDSLASH",
+    "RHYDON"
+  ],
+  "SANDSLASH": [
+    "SANDSLASH",
+    "RHYDON"
+  ],
+  "CLEFAIRY": [
+    "CLEFAIRY",
+    "CLEFABLE"
+  ],
+  "PRIMEAPE": [
+    "PRIMEAPE",
+    "MACHAMP"
+  ],
+  "POLIWAG": [
+    "POLIWAG",
+    "SHELLDER"
+  ],
+  "ABRA": [
+    "ABRA",
+    "DROWZEE",
+    "KADABRA",
+    "MR. MIME",
+    "HYPNO"
+  ],
+  "DROWZEE": [
+    "DROWZEE",
+    "KADABRA",
+    "MR. MIME",
+    "HYPNO"
+  ],
+  "KADABRA": [
+    "KADABRA",
+    "MR. MIME",
+    "HYPNO"
+  ],
+  "MR. MIME": [
+    "MR. MIME",
+    "HYPNO"
+  ],
+  "MACHOP": [
+    "MACHOP",
+    "MACHOKE",
+    "HITMONLEE",
+    "HITMONCHAN"
+  ],
+  "MACHOKE": [
+    "MACHOKE",
+    "HITMONLEE",
+    "HITMONCHAN"
+  ],
+  "HITMONLEE": [
+    "HITMONLEE",
+    "HITMONCHAN"
+  ],
+  "GEODUDE": [
+    "GEODUDE",
+    "OMANYTE",
+    "KABUTO",
+    "ONIX",
+    "GRAVELER"
+  ],
+  "OMANYTE": [
+    "OMANYTE",
+    "KABUTO",
+    "ONIX",
+    "GRAVELER"
+  ],
+  "KABUTO": [
+    "KABUTO",
+    "ONIX",
+    "GRAVELER"
+  ],
+  "ONIX": [
+    "ONIX",
+    "GRAVELER"
+  ],
+  "GASTLY": [
+    "GASTLY",
+    "HAUNTER"
+  ],
+  "DRAGONAIR": [
+    "DRAGONAIR",
+    "DRAGONITE"
+  ],
+  "CHIKORITA": [
+    "CHIKORITA",
+    "SKIPLOOM",
+    "BAYLEEF",
+    "SUNFLORA",
+    "JUMPLUFF",
+    "BELLOSSOM",
+    "MEGANIUM"
+  ],
+  "SKIPLOOM": [
+    "SKIPLOOM",
+    "BAYLEEF",
+    "SUNFLORA",
+    "JUMPLUFF",
+    "BELLOSSOM",
+    "MEGANIUM"
+  ],
+  "BAYLEEF": [
+    "BAYLEEF",
+    "SUNFLORA",
+    "JUMPLUFF",
+    "BELLOSSOM",
+    "MEGANIUM"
+  ],
+  "SUNFLORA": [
+    "SUNFLORA",
+    "JUMPLUFF",
+    "BELLOSSOM",
+    "MEGANIUM"
+  ],
+  "JUMPLUFF": [
+    "JUMPLUFF",
+    "BELLOSSOM",
+    "MEGANIUM"
+  ],
+  "BELLOSSOM": [
+    "BELLOSSOM",
+    "MEGANIUM"
+  ],
+  "CYNDAQUIL": [
+    "CYNDAQUIL",
+    "MAGBY",
+    "QUILAVA",
+    "MAGCARGO"
+  ],
+  "MAGBY": [
+    "MAGBY",
+    "QUILAVA",
+    "MAGCARGO"
+  ],
+  "QUILAVA": [
+    "QUILAVA",
+    "MAGCARGO"
+  ],
+  "TYPHLOSION": [
+    "TYPHLOSION",
+    "ENTEI"
+  ],
+  "TOTODILE": [
+    "TOTODILE",
+    "CHINCHOU",
+    "CROCONAW",
+    "CORSOLA",
+    "AZUMARILL",
+    "QUAGSIRE",
+    "QWILFISH",
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "CHINCHOU": [
+    "CHINCHOU",
+    "CROCONAW",
+    "CORSOLA",
+    "AZUMARILL",
+    "QUAGSIRE",
+    "QWILFISH",
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "CROCONAW": [
+    "CROCONAW",
+    "CORSOLA",
+    "AZUMARILL",
+    "QUAGSIRE",
+    "QWILFISH",
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "CORSOLA": [
+    "CORSOLA",
+    "AZUMARILL",
+    "QUAGSIRE",
+    "QWILFISH",
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "AZUMARILL": [
+    "AZUMARILL",
+    "QUAGSIRE",
+    "QWILFISH",
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "QUAGSIRE": [
+    "QUAGSIRE",
+    "QWILFISH",
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "QWILFISH": [
+    "QWILFISH",
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "LANTURN": [
+    "LANTURN",
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "OCTILLERY": [
+    "OCTILLERY",
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "MANTINE": [
+    "MANTINE",
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "SLOWKING": [
+    "SLOWKING",
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "POLITOED": [
+    "POLITOED",
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "FERALIGATR": [
+    "FERALIGATR",
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "KINGDRA": [
+    "KINGDRA",
+    "SUICUNE"
+  ],
+  "SENTRET": [
+    "SENTRET",
+    "SMEARGLE",
+    "HOOTHOOT",
+    "TEDDIURSA",
+    "AIPOM",
+    "FURRET",
+    "DUNSPARCE",
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "SMEARGLE": [
+    "SMEARGLE",
+    "HOOTHOOT",
+    "TEDDIURSA",
+    "AIPOM",
+    "FURRET",
+    "DUNSPARCE",
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "HOOTHOOT": [
+    "HOOTHOOT",
+    "TEDDIURSA",
+    "AIPOM",
+    "FURRET",
+    "DUNSPARCE",
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "TEDDIURSA": [
+    "TEDDIURSA",
+    "AIPOM",
+    "FURRET",
+    "DUNSPARCE",
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "AIPOM": [
+    "AIPOM",
+    "FURRET",
+    "DUNSPARCE",
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "FURRET": [
+    "FURRET",
+    "DUNSPARCE",
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "DUNSPARCE": [
+    "DUNSPARCE",
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "NOCTOWL": [
+    "NOCTOWL",
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "GIRAFARIG": [
+    "GIRAFARIG",
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "STANTLER": [
+    "STANTLER",
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "MILTANK": [
+    "MILTANK",
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "URSARING": [
+    "URSARING",
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "PORYGON2": [
+    "PORYGON2",
+    "BLISSEY"
+  ],
+  "LEDYBA": [
+    "LEDYBA",
+    "PINECO"
+  ],
+  "LEDIAN": [
+    "LEDIAN",
+    "ARIADOS",
+    "FORRETRESS",
+    "SHUCKLE",
+    "SCIZOR",
+    "HERACROSS"
+  ],
+  "ARIADOS": [
+    "ARIADOS",
+    "FORRETRESS",
+    "SHUCKLE",
+    "SCIZOR",
+    "HERACROSS"
+  ],
+  "FORRETRESS": [
+    "FORRETRESS",
+    "SHUCKLE",
+    "SCIZOR",
+    "HERACROSS"
+  ],
+  "SHUCKLE": [
+    "SHUCKLE",
+    "SCIZOR",
+    "HERACROSS"
+  ],
+  "SCIZOR": [
+    "SCIZOR",
+    "HERACROSS"
+  ],
+  "PICHU": [
+    "PICHU",
+    "MAREEP",
+    "ELEKID",
+    "FLAAFFY"
+  ],
+  "MAREEP": [
+    "MAREEP",
+    "ELEKID",
+    "FLAAFFY"
+  ],
+  "ELEKID": [
+    "ELEKID",
+    "FLAAFFY"
+  ],
+  "CLEFFA": [
+    "CLEFFA",
+    "TOGEPI",
+    "SNUBBULL"
+  ],
+  "TOGEPI": [
+    "TOGEPI",
+    "SNUBBULL"
+  ],
+  "TOGETIC": [
+    "TOGETIC",
+    "GRANBULL"
+  ],
+  "NATU": [
+    "NATU",
+    "UNOWN",
+    "WOBBUFFET",
+    "XATU",
+    "ESPEON",
+    "CELEBI",
+    "LUGIA"
+  ],
+  "UNOWN": [
+    "UNOWN",
+    "WOBBUFFET",
+    "XATU",
+    "ESPEON",
+    "CELEBI",
+    "LUGIA"
+  ],
+  "WOBBUFFET": [
+    "WOBBUFFET",
+    "XATU",
+    "ESPEON",
+    "CELEBI",
+    "LUGIA"
+  ],
+  "XATU": [
+    "XATU",
+    "ESPEON",
+    "CELEBI",
+    "LUGIA"
+  ],
+  "ESPEON": [
+    "ESPEON",
+    "CELEBI",
+    "LUGIA"
+  ],
+  "CELEBI": [
+    "CELEBI",
+    "LUGIA"
+  ],
+  "MARILL": [
+    "MARILL",
+    "REMORAID"
+  ],
+  "UMBREON": [
+    "UMBREON",
+    "HOUNDOOM"
+  ],
+  "MURKROW": [
+    "MURKROW",
+    "SNEASEL"
+  ],
+  "GLIGAR": [
+    "GLIGAR",
+    "DONPHAN"
+  ],
+  "SWINUB": [
+    "SWINUB",
+    "SMOOCHUM",
+    "DELIBIRD"
+  ],
+  "SMOOCHUM": [
+    "SMOOCHUM",
+    "DELIBIRD"
+  ],
+  "TREECKO": [
+    "TREECKO",
+    "CACNEA",
+    "NUZLEAF",
+    "ROSELIA",
+    "GROVYLE",
+    "BRELOOM",
+    "TROPIUS",
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "CACNEA": [
+    "CACNEA",
+    "NUZLEAF",
+    "ROSELIA",
+    "GROVYLE",
+    "BRELOOM",
+    "TROPIUS",
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "NUZLEAF": [
+    "NUZLEAF",
+    "ROSELIA",
+    "GROVYLE",
+    "BRELOOM",
+    "TROPIUS",
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "ROSELIA": [
+    "ROSELIA",
+    "GROVYLE",
+    "BRELOOM",
+    "TROPIUS",
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "GROVYLE": [
+    "GROVYLE",
+    "BRELOOM",
+    "TROPIUS",
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "BRELOOM": [
+    "BRELOOM",
+    "TROPIUS",
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "TROPIUS": [
+    "TROPIUS",
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "CACTURNE": [
+    "CACTURNE",
+    "SHIFTRY"
+  ],
+  "TORCHIC": [
+    "TORCHIC",
+    "COMBUSKEN",
+    "TORKOAL",
+    "CAMERUPT",
+    "BLAZIKEN"
+  ],
+  "COMBUSKEN": [
+    "COMBUSKEN",
+    "TORKOAL",
+    "CAMERUPT",
+    "BLAZIKEN"
+  ],
+  "TORKOAL": [
+    "TORKOAL",
+    "CAMERUPT",
+    "BLAZIKEN"
+  ],
+  "CAMERUPT": [
+    "CAMERUPT",
+    "BLAZIKEN"
+  ],
+  "MUDKIP": [
+    "MUDKIP",
+    "LUVDISC",
+    "LOMBRE",
+    "CLAMPERL",
+    "WAILMER",
+    "MARSHTOMP",
+    "PELIPPER",
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "LUVDISC": [
+    "LUVDISC",
+    "LOMBRE",
+    "CLAMPERL",
+    "WAILMER",
+    "MARSHTOMP",
+    "PELIPPER",
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "LOMBRE": [
+    "LOMBRE",
+    "CLAMPERL",
+    "WAILMER",
+    "MARSHTOMP",
+    "PELIPPER",
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "CLAMPERL": [
+    "CLAMPERL",
+    "WAILMER",
+    "MARSHTOMP",
+    "PELIPPER",
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "WAILMER": [
+    "WAILMER",
+    "MARSHTOMP",
+    "PELIPPER",
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "MARSHTOMP": [
+    "MARSHTOMP",
+    "PELIPPER",
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "PELIPPER": [
+    "PELIPPER",
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "CRAWDAUNT": [
+    "CRAWDAUNT",
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "WHISCASH": [
+    "WHISCASH",
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "LUDICOLO": [
+    "LUDICOLO",
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "HUNTAIL": [
+    "HUNTAIL",
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "GOREBYSS": [
+    "GOREBYSS",
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "RELICANTH": [
+    "RELICANTH",
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "WAILORD": [
+    "WAILORD",
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "MILOTIC": [
+    "MILOTIC",
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "SHARPEDO": [
+    "SHARPEDO",
+    "SWAMPERT"
+  ],
+  "MIGHTYENA": [
+    "MIGHTYENA",
+    "SABLEYE",
+    "ABSOL"
+  ],
+  "SABLEYE": [
+    "SABLEYE",
+    "ABSOL"
+  ],
+  "ZIGZAGOON": [
+    "ZIGZAGOON",
+    "SKITTY",
+    "TAILLOW",
+    "SLAKOTH",
+    "SWABLU",
+    "LOUDRED",
+    "SPINDA",
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "SKITTY": [
+    "SKITTY",
+    "TAILLOW",
+    "SLAKOTH",
+    "SWABLU",
+    "LOUDRED",
+    "SPINDA",
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "TAILLOW": [
+    "TAILLOW",
+    "SLAKOTH",
+    "SWABLU",
+    "LOUDRED",
+    "SPINDA",
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "SLAKOTH": [
+    "SLAKOTH",
+    "SWABLU",
+    "LOUDRED",
+    "SPINDA",
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "SWABLU": [
+    "SWABLU",
+    "LOUDRED",
+    "SPINDA",
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "LOUDRED": [
+    "LOUDRED",
+    "SPINDA",
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "SPINDA": [
+    "SPINDA",
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "DELCATTY": [
+    "DELCATTY",
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "LINOONE": [
+    "LINOONE",
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "CASTFORM": [
+    "CASTFORM",
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "VIGOROTH": [
+    "VIGOROTH",
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "KECLEON": [
+    "KECLEON",
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "SWELLOW": [
+    "SWELLOW",
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "ZANGOOSE": [
+    "ZANGOOSE",
+    "EXPLOUD"
+  ],
+  "WURMPLE": [
+    "WURMPLE",
+    "SILCOON",
+    "CASCOON",
+    "SHEDINJA",
+    "NINCADA",
+    "SURSKIT"
+  ],
+  "SILCOON": [
+    "SILCOON",
+    "CASCOON",
+    "SHEDINJA",
+    "NINCADA",
+    "SURSKIT"
+  ],
+  "CASCOON": [
+    "CASCOON",
+    "SHEDINJA",
+    "NINCADA",
+    "SURSKIT"
+  ],
+  "SHEDINJA": [
+    "SHEDINJA",
+    "NINCADA",
+    "SURSKIT"
+  ],
+  "NINCADA": [
+    "NINCADA",
+    "SURSKIT"
+  ],
+  "BEAUTIFLY": [
+    "BEAUTIFLY",
+    "VOLBEAT",
+    "ILLUMISE",
+    "MASQUERAIN",
+    "NINJASK"
+  ],
+  "VOLBEAT": [
+    "VOLBEAT",
+    "ILLUMISE",
+    "MASQUERAIN",
+    "NINJASK"
+  ],
+  "ILLUMISE": [
+    "ILLUMISE",
+    "MASQUERAIN",
+    "NINJASK"
+  ],
+  "MASQUERAIN": [
+    "MASQUERAIN",
+    "NINJASK"
+  ],
+  "LOTAD": [
+    "LOTAD",
+    "WINGULL",
+    "BARBOACH",
+    "CARVANHA",
+    "CORPHISH"
+  ],
+  "WINGULL": [
+    "WINGULL",
+    "BARBOACH",
+    "CARVANHA",
+    "CORPHISH"
+  ],
+  "BARBOACH": [
+    "BARBOACH",
+    "CARVANHA",
+    "CORPHISH"
+  ],
+  "CARVANHA": [
+    "CARVANHA",
+    "CORPHISH"
+  ],
+  "SEEDOT": [
+    "SEEDOT",
+    "SHROOMISH"
+  ],
+  "RALTS": [
+    "RALTS",
+    "WYNAUT",
+    "KIRLIA",
+    "SPOINK"
+  ],
+  "WYNAUT": [
+    "WYNAUT",
+    "KIRLIA",
+    "SPOINK"
+  ],
+  "KIRLIA": [
+    "KIRLIA",
+    "SPOINK"
+  ],
+  "MAKUHITA": [
+    "MAKUHITA",
+    "MEDITITE"
+  ],
+  "HARIYAMA": [
+    "HARIYAMA",
+    "MEDICHAM"
+  ],
+  "NOSEPASS": [
+    "NOSEPASS",
+    "LUNATONE",
+    "SOLROCK",
+    "CRADILY",
+    "ARMALDO",
+    "REGIROCK"
+  ],
+  "LUNATONE": [
+    "LUNATONE",
+    "SOLROCK",
+    "CRADILY",
+    "ARMALDO",
+    "REGIROCK"
+  ],
+  "SOLROCK": [
+    "SOLROCK",
+    "CRADILY",
+    "ARMALDO",
+    "REGIROCK"
+  ],
+  "CRADILY": [
+    "CRADILY",
+    "ARMALDO",
+    "REGIROCK"
+  ],
+  "ARMALDO": [
+    "ARMALDO",
+    "REGIROCK"
+  ],
+  "ARON": [
+    "ARON",
+    "METANG",
+    "LAIRON"
+  ],
+  "METANG": [
+    "METANG",
+    "LAIRON"
+  ],
+  "AGGRON": [
+    "AGGRON",
+    "METAGROSS"
+  ],
+  "TRAPINCH": [
+    "TRAPINCH",
+    "BALTOY",
+    "VIBRAVA"
+  ],
+  "BALTOY": [
+    "BALTOY",
+    "VIBRAVA"
+  ],
+  "WALREIN": [
+    "WALREIN",
+    "REGICE"
+  ],
+  "SALAMENCE": [
+    "SALAMENCE",
+    "RAYQUAZA"
+  ],
+  "REGISTEEL": [
+    "REGISTEEL",
+    "JIRACHI"
+  ],
+  "TURTWIG": [
+    "TURTWIG",
+    "SNOVER",
+    "GROTLE",
+    "CHERRIM",
+    "CARNIVINE",
+    "ROSERADE",
+    "TORTERRA",
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "SNOVER": [
+    "SNOVER",
+    "GROTLE",
+    "CHERRIM",
+    "CARNIVINE",
+    "ROSERADE",
+    "TORTERRA",
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "GROTLE": [
+    "GROTLE",
+    "CHERRIM",
+    "CARNIVINE",
+    "ROSERADE",
+    "TORTERRA",
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "CHERRIM": [
+    "CHERRIM",
+    "CARNIVINE",
+    "ROSERADE",
+    "TORTERRA",
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "CARNIVINE": [
+    "CARNIVINE",
+    "ROSERADE",
+    "TORTERRA",
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "ROSERADE": [
+    "ROSERADE",
+    "TORTERRA",
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "TORTERRA": [
+    "TORTERRA",
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "LEAFEON": [
+    "LEAFEON",
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "TANGROWTH": [
+    "TANGROWTH",
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "ABOMASNOW": [
+    "ABOMASNOW",
+    "SHAYMIN"
+  ],
+  "CHIMCHAR": [
+    "CHIMCHAR",
+    "MONFERNO"
+  ],
+  "INFERNAPE": [
+    "INFERNAPE",
+    "MAGMORTAR",
+    "HEATRAN"
+  ],
+  "MAGMORTAR": [
+    "MAGMORTAR",
+    "HEATRAN"
+  ],
+  "PIPLUP": [
+    "PIPLUP",
+    "SHELLOS",
+    "BUIZEL",
+    "FINNEON",
+    "MANTYKE",
+    "PRINPLUP",
+    "LUMINEON",
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "SHELLOS": [
+    "SHELLOS",
+    "BUIZEL",
+    "FINNEON",
+    "MANTYKE",
+    "PRINPLUP",
+    "LUMINEON",
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "BUIZEL": [
+    "BUIZEL",
+    "FINNEON",
+    "MANTYKE",
+    "PRINPLUP",
+    "LUMINEON",
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "FINNEON": [
+    "FINNEON",
+    "MANTYKE",
+    "PRINPLUP",
+    "LUMINEON",
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "MANTYKE": [
+    "MANTYKE",
+    "PRINPLUP",
+    "LUMINEON",
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "PRINPLUP": [
+    "PRINPLUP",
+    "LUMINEON",
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "LUMINEON": [
+    "LUMINEON",
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "GASTRODON": [
+    "GASTRODON",
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "PHIONE": [
+    "PHIONE",
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "FLOATZEL": [
+    "FLOATZEL",
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "EMPOLEON": [
+    "EMPOLEON",
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "MANAPHY": [
+    "MANAPHY",
+    "PALKIA"
+  ],
+  "STARLY": [
+    "STARLY",
+    "BIDOOF",
+    "GLAMEOW",
+    "STARAVIA",
+    "BUNEARY",
+    "MUNCHLAX",
+    "BIBAREL",
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "BIDOOF": [
+    "BIDOOF",
+    "GLAMEOW",
+    "STARAVIA",
+    "BUNEARY",
+    "MUNCHLAX",
+    "BIBAREL",
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "GLAMEOW": [
+    "GLAMEOW",
+    "STARAVIA",
+    "BUNEARY",
+    "MUNCHLAX",
+    "BIBAREL",
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "STARAVIA": [
+    "STARAVIA",
+    "BUNEARY",
+    "MUNCHLAX",
+    "BIBAREL",
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "BUNEARY": [
+    "BUNEARY",
+    "MUNCHLAX",
+    "BIBAREL",
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "MUNCHLAX": [
+    "MUNCHLAX",
+    "BIBAREL",
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "BIBAREL": [
+    "BIBAREL",
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "CHATOT": [
+    "CHATOT",
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "PURUGLY": [
+    "PURUGLY",
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "AMBIPOM": [
+    "AMBIPOM",
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "STARAPTOR": [
+    "STARAPTOR",
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "LICKILICKY": [
+    "LICKILICKY",
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "PORYGON-Z": [
+    "PORYGON-Z",
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "LOPUNNY": [
+    "LOPUNNY",
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "REGIGIGAS": [
+    "REGIGIGAS",
+    "ARCEUS"
+  ],
+  "KRICKETOT": [
+    "KRICKETOT",
+    "BURMY",
+    "COMBEE",
+    "KRICKETUNE",
+    "WORMADAM",
+    "MOTHIM",
+    "VESPIQUEN",
+    "YANMEGA"
+  ],
+  "BURMY": [
+    "BURMY",
+    "COMBEE",
+    "KRICKETUNE",
+    "WORMADAM",
+    "MOTHIM",
+    "VESPIQUEN",
+    "YANMEGA"
+  ],
+  "COMBEE": [
+    "COMBEE",
+    "KRICKETUNE",
+    "WORMADAM",
+    "MOTHIM",
+    "VESPIQUEN",
+    "YANMEGA"
+  ],
+  "KRICKETUNE": [
+    "KRICKETUNE",
+    "WORMADAM",
+    "MOTHIM",
+    "VESPIQUEN",
+    "YANMEGA"
+  ],
+  "WORMADAM": [
+    "WORMADAM",
+    "MOTHIM",
+    "VESPIQUEN",
+    "YANMEGA"
+  ],
+  "MOTHIM": [
+    "MOTHIM",
+    "VESPIQUEN",
+    "YANMEGA"
+  ],
+  "VESPIQUEN": [
+    "VESPIQUEN",
+    "YANMEGA"
+  ],
+  "LUXIO": [
+    "LUXIO",
+    "PACHIRISU"
+  ],
+  "LUXRAY": [
+    "LUXRAY",
+    "MAGNEZONE",
+    "ELECTIVIRE"
+  ],
+  "MAGNEZONE": [
+    "MAGNEZONE",
+    "ELECTIVIRE"
+  ],
+  "RAMPARDOS": [
+    "RAMPARDOS",
+    "PROBOPASS"
+  ],
+  "DRIFLOON": [
+    "DRIFLOON",
+    "DRIFBLIM",
+    "DUSKNOIR"
+  ],
+  "DRIFBLIM": [
+    "DRIFBLIM",
+    "DUSKNOIR"
+  ],
+  "HONCHKROW": [
+    "HONCHKROW",
+    "WEAVILE",
+    "DARKRAI"
+  ],
+  "WEAVILE": [
+    "WEAVILE",
+    "DARKRAI"
+  ],
+  "CHINGLING": [
+    "CHINGLING",
+    "MIME JR."
+  ],
+  "STUNKY": [
+    "STUNKY",
+    "SKORUPI"
+  ],
+  "SKUNTANK": [
+    "SKUNTANK",
+    "TOXICROAK",
+    "DRAPION"
+  ],
+  "TOXICROAK": [
+    "TOXICROAK",
+    "DRAPION"
+  ],
+  "BRONZOR": [
+    "BRONZOR",
+    "BRONZONG"
+  ],
+  "HIPPOPOTAS": [
+    "HIPPOPOTAS",
+    "HIPPOWDON",
+    "RHYPERIOR"
+  ],
+  "HIPPOWDON": [
+    "HIPPOWDON",
+    "RHYPERIOR"
+  ],
+  "GLACEON": [
+    "GLACEON",
+    "MAMOSWINE"
+  ],
+  "UXIE": [
+    "UXIE",
+    "CRESSELIA"
+  ],
+  "SNIVY": [
+    "SNIVY",
+    "PANSAGE",
+    "SERVINE",
+    "MARACTUS",
+    "AMOONGUSS",
+    "WHIMSICOTT",
+    "LILLIGANT",
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "PANSAGE": [
+    "PANSAGE",
+    "SERVINE",
+    "MARACTUS",
+    "AMOONGUSS",
+    "WHIMSICOTT",
+    "LILLIGANT",
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "SERVINE": [
+    "SERVINE",
+    "MARACTUS",
+    "AMOONGUSS",
+    "WHIMSICOTT",
+    "LILLIGANT",
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "MARACTUS": [
+    "MARACTUS",
+    "AMOONGUSS",
+    "WHIMSICOTT",
+    "LILLIGANT",
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "AMOONGUSS": [
+    "AMOONGUSS",
+    "WHIMSICOTT",
+    "LILLIGANT",
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "WHIMSICOTT": [
+    "WHIMSICOTT",
+    "LILLIGANT",
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "LILLIGANT": [
+    "LILLIGANT",
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "FERROTHORN": [
+    "FERROTHORN",
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "SIMISAGE": [
+    "SIMISAGE",
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "SERPERIOR": [
+    "SERPERIOR",
+    "VIRIZION"
+  ],
+  "TEPIG": [
+    "TEPIG",
+    "DARUMAKA",
+    "PANSEAR"
+  ],
+  "DARUMAKA": [
+    "DARUMAKA",
+    "PANSEAR"
+  ],
+  "PIGNITE": [
+    "PIGNITE",
+    "HEATMOR",
+    "SIMISEAR",
+    "EMBOAR",
+    "DARMANITAN"
+  ],
+  "HEATMOR": [
+    "HEATMOR",
+    "SIMISEAR",
+    "EMBOAR",
+    "DARMANITAN"
+  ],
+  "SIMISEAR": [
+    "SIMISEAR",
+    "EMBOAR",
+    "DARMANITAN"
+  ],
+  "EMBOAR": [
+    "EMBOAR",
+    "DARMANITAN"
+  ],
+  "OSHAWOTT": [
+    "OSHAWOTT",
+    "PANPOUR",
+    "FRILLISH",
+    "TIRTOUGA",
+    "PALPITOAD",
+    "DEWOTT",
+    "BASCULIN",
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "PANPOUR": [
+    "PANPOUR",
+    "FRILLISH",
+    "TIRTOUGA",
+    "PALPITOAD",
+    "DEWOTT",
+    "BASCULIN",
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "FRILLISH": [
+    "FRILLISH",
+    "TIRTOUGA",
+    "PALPITOAD",
+    "DEWOTT",
+    "BASCULIN",
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "TIRTOUGA": [
+    "TIRTOUGA",
+    "PALPITOAD",
+    "DEWOTT",
+    "BASCULIN",
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "PALPITOAD": [
+    "PALPITOAD",
+    "DEWOTT",
+    "BASCULIN",
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "DEWOTT": [
+    "DEWOTT",
+    "BASCULIN",
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "BASCULIN": [
+    "BASCULIN",
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "ALOMOMOLA": [
+    "ALOMOMOLA",
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "SWANNA": [
+    "SWANNA",
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "JELLICENT": [
+    "JELLICENT",
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "CARRACOSTA": [
+    "CARRACOSTA",
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "SIMIPOUR": [
+    "SIMIPOUR",
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "SEISMITOAD": [
+    "SEISMITOAD",
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "SAMUROTT": [
+    "SAMUROTT",
+    "KELDEO"
+  ],
+  "PATRAT": [
+    "PATRAT",
+    "PIDOVE",
+    "LILLIPUP",
+    "MINCCINO",
+    "DEERLING",
+    "RUFFLET",
+    "TRANQUILL",
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "PIDOVE": [
+    "PIDOVE",
+    "LILLIPUP",
+    "MINCCINO",
+    "DEERLING",
+    "RUFFLET",
+    "TRANQUILL",
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "LILLIPUP": [
+    "LILLIPUP",
+    "MINCCINO",
+    "DEERLING",
+    "RUFFLET",
+    "TRANQUILL",
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "MINCCINO": [
+    "MINCCINO",
+    "DEERLING",
+    "RUFFLET",
+    "TRANQUILL",
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "DEERLING": [
+    "DEERLING",
+    "RUFFLET",
+    "TRANQUILL",
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "RUFFLET": [
+    "RUFFLET",
+    "TRANQUILL",
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "TRANQUILL": [
+    "TRANQUILL",
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "HERDIER": [
+    "HERDIER",
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "WATCHOG": [
+    "WATCHOG",
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "CINCCINO": [
+    "CINCCINO",
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "SAWSBUCK": [
+    "SAWSBUCK",
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "UNFEZANT": [
+    "UNFEZANT",
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "BOUFFALANT": [
+    "BOUFFALANT",
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "STOUTLAND": [
+    "STOUTLAND",
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "BRAVIARY": [
+    "BRAVIARY",
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "AUDINO": [
+    "AUDINO",
+    "MELOETTA"
+  ],
+  "PURRLOIN": [
+    "PURRLOIN",
+    "DEINO",
+    "ZORUA",
+    "PAWNIARD",
+    "SCRAGGY",
+    "VULLABY",
+    "ZWEILOUS",
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "DEINO": [
+    "DEINO",
+    "ZORUA",
+    "PAWNIARD",
+    "SCRAGGY",
+    "VULLABY",
+    "ZWEILOUS",
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "ZORUA": [
+    "ZORUA",
+    "PAWNIARD",
+    "SCRAGGY",
+    "VULLABY",
+    "ZWEILOUS",
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "PAWNIARD": [
+    "PAWNIARD",
+    "SCRAGGY",
+    "VULLABY",
+    "ZWEILOUS",
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "SCRAGGY": [
+    "SCRAGGY",
+    "VULLABY",
+    "ZWEILOUS",
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "VULLABY": [
+    "VULLABY",
+    "ZWEILOUS",
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "ZWEILOUS": [
+    "ZWEILOUS",
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "LIEPARD": [
+    "LIEPARD",
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "SCRAFTY": [
+    "SCRAFTY",
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "BISHARP": [
+    "BISHARP",
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "ZOROARK": [
+    "ZOROARK",
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "MANDIBUZZ": [
+    "MANDIBUZZ",
+    "HYDREIGON"
+  ],
+  "MUNNA": [
+    "MUNNA",
+    "WOOBAT",
+    "ELGYEM",
+    "DUOSION",
+    "GOTHORITA",
+    "SWOOBAT",
+    "BEHEEYEM",
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "WOOBAT": [
+    "WOOBAT",
+    "ELGYEM",
+    "DUOSION",
+    "GOTHORITA",
+    "SWOOBAT",
+    "BEHEEYEM",
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "ELGYEM": [
+    "ELGYEM",
+    "DUOSION",
+    "GOTHORITA",
+    "SWOOBAT",
+    "BEHEEYEM",
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "DUOSION": [
+    "DUOSION",
+    "GOTHORITA",
+    "SWOOBAT",
+    "BEHEEYEM",
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "GOTHORITA": [
+    "GOTHORITA",
+    "SWOOBAT",
+    "BEHEEYEM",
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "SWOOBAT": [
+    "SWOOBAT",
+    "BEHEEYEM",
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "BEHEEYEM": [
+    "BEHEEYEM",
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "MUSHARNA": [
+    "MUSHARNA",
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "SIGILYPH": [
+    "SIGILYPH",
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "GOTHITELLE": [
+    "GOTHITELLE",
+    "REUNICLUS"
+  ],
+  "ZEBSTRIKA": [
+    "ZEBSTRIKA",
+    "EELEKTROSS",
+    "THUNDURUS"
+  ],
+  "EELEKTROSS": [
+    "EELEKTROSS",
+    "THUNDURUS"
+  ],
+  "BOLDORE": [
+    "BOLDORE",
+    "ARCHEN"
+  ],
+  "GIGALITH": [
+    "GIGALITH",
+    "ARCHEOPS",
+    "TERRAKION"
+  ],
+  "ARCHEOPS": [
+    "ARCHEOPS",
+    "TERRAKION"
+  ],
+  "DRILBUR": [
+    "DRILBUR",
+    "KROKOROK"
+  ],
+  "EXCADRILL": [
+    "EXCADRILL",
+    "KROOKODILE",
+    "LANDORUS"
+  ],
+  "KROOKODILE": [
+    "KROOKODILE",
+    "LANDORUS"
+  ],
+  "TIMBURR": [
+    "TIMBURR",
+    "MIENFOO",
+    "GURDURR",
+    "THROH",
+    "SAWK",
+    "CONKELDURR",
+    "MIENSHAO"
+  ],
+  "MIENFOO": [
+    "MIENFOO",
+    "GURDURR",
+    "THROH",
+    "SAWK",
+    "CONKELDURR",
+    "MIENSHAO"
+  ],
+  "GURDURR": [
+    "GURDURR",
+    "THROH",
+    "SAWK",
+    "CONKELDURR",
+    "MIENSHAO"
+  ],
+  "THROH": [
+    "THROH",
+    "SAWK",
+    "CONKELDURR",
+    "MIENSHAO"
+  ],
+  "SAWK": [
+    "SAWK",
+    "CONKELDURR",
+    "MIENSHAO"
+  ],
+  "CONKELDURR": [
+    "CONKELDURR",
+    "MIENSHAO"
+  ],
+  "TYMPOLE": [
+    "TYMPOLE",
+    "DUCKLETT"
+  ],
+  "SEWADDLE": [
+    "SEWADDLE",
+    "KARRABLAST",
+    "JOLTIK",
+    "DWEBBLE",
+    "WHIRLIPEDE",
+    "LARVESTA",
+    "SWADLOON",
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "KARRABLAST": [
+    "KARRABLAST",
+    "JOLTIK",
+    "DWEBBLE",
+    "WHIRLIPEDE",
+    "LARVESTA",
+    "SWADLOON",
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "JOLTIK": [
+    "JOLTIK",
+    "DWEBBLE",
+    "WHIRLIPEDE",
+    "LARVESTA",
+    "SWADLOON",
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "DWEBBLE": [
+    "DWEBBLE",
+    "WHIRLIPEDE",
+    "LARVESTA",
+    "SWADLOON",
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "WHIRLIPEDE": [
+    "WHIRLIPEDE",
+    "LARVESTA",
+    "SWADLOON",
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "LARVESTA": [
+    "LARVESTA",
+    "SWADLOON",
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "SWADLOON": [
+    "SWADLOON",
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "GALVANTULA": [
+    "GALVANTULA",
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "DURANT": [
+    "DURANT",
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "SCOLIPEDE": [
+    "SCOLIPEDE",
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "CRUSTLE": [
+    "CRUSTLE",
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "ESCAVALIER": [
+    "ESCAVALIER",
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "ACCELGOR": [
+    "ACCELGOR",
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "LEAVANNY": [
+    "LEAVANNY",
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "VOLCARONA": [
+    "VOLCARONA",
+    "GENESECT"
+  ],
+  "VENIPEDE": [
+    "VENIPEDE",
+    "SHELMET"
+  ],
+  "COTTONEE": [
+    "COTTONEE",
+    "FOONGUS",
+    "FERROSEED"
+  ],
+  "FOONGUS": [
+    "FOONGUS",
+    "FERROSEED"
+  ],
+  "SANDILE": [
+    "SANDILE",
+    "GOLETT"
+  ],
+  "YAMASK": [
+    "YAMASK",
+    "LAMPENT"
+  ],
+  "COFAGRIGUS": [
+    "COFAGRIGUS",
+    "CHANDELURE"
+  ],
+  "VANILLITE": [
+    "VANILLITE",
+    "VANILLISH",
+    "VANILLUXE"
+  ],
+  "VANILLISH": [
+    "VANILLISH",
+    "VANILLUXE"
+  ],
+  "KLINK": [
+    "KLINK",
+    "KLINKLANG",
+    "COBALION"
+  ],
+  "KLINKLANG": [
+    "KLINKLANG",
+    "COBALION"
+  ],
+  "AXEW": [
+    "AXEW",
+    "FRAXURE",
+    "DRUDDIGON",
+    "HAXORUS"
+  ],
+  "FRAXURE": [
+    "FRAXURE",
+    "DRUDDIGON",
+    "HAXORUS"
+  ],
+  "DRUDDIGON": [
+    "DRUDDIGON",
+    "HAXORUS"
+  ],
+  "BEARTIC": [
+    "BEARTIC",
+    "CRYOGONAL"
+  ],
+  "STUNFISK": [
+    "STUNFISK",
+    "GOLURK"
+  ],
+  "RESHIRAM": [
+    "RESHIRAM",
+    "KYUREM"
+  ],
+  "CHESPIN": [
+    "CHESPIN",
+    "SKIDDO",
+    "QUILLADIN",
+    "CHESNAUGHT",
+    "GOGOAT"
+  ],
+  "SKIDDO": [
+    "SKIDDO",
+    "QUILLADIN",
+    "CHESNAUGHT",
+    "GOGOAT"
+  ],
+  "QUILLADIN": [
+    "QUILLADIN",
+    "CHESNAUGHT",
+    "GOGOAT"
+  ],
+  "CHESNAUGHT": [
+    "CHESNAUGHT",
+    "GOGOAT"
+  ],
+  "FENNEKIN": [
+    "FENNEKIN",
+    "LITLEO",
+    "FLETCHINDER",
+    "BRAIXEN",
+    "TALONFLAME",
+    "PYROAR",
+    "DELPHOX",
+    "VOLCANION"
+  ],
+  "LITLEO": [
+    "LITLEO",
+    "FLETCHINDER",
+    "BRAIXEN",
+    "TALONFLAME",
+    "PYROAR",
+    "DELPHOX",
+    "VOLCANION"
+  ],
+  "FLETCHINDER": [
+    "FLETCHINDER",
+    "BRAIXEN",
+    "TALONFLAME",
+    "PYROAR",
+    "DELPHOX",
+    "VOLCANION"
+  ],
+  "BRAIXEN": [
+    "BRAIXEN",
+    "TALONFLAME",
+    "PYROAR",
+    "DELPHOX",
+    "VOLCANION"
+  ],
+  "TALONFLAME": [
+    "TALONFLAME",
+    "PYROAR",
+    "DELPHOX",
+    "VOLCANION"
+  ],
+  "PYROAR": [
+    "PYROAR",
+    "DELPHOX",
+    "VOLCANION"
+  ],
+  "DELPHOX": [
+    "DELPHOX",
+    "VOLCANION"
+  ],
+  "FROAKIE": [
+    "FROAKIE",
+    "CLAUNCHER",
+    "FROGADIER",
+    "CLAWITZER"
+  ],
+  "CLAUNCHER": [
+    "CLAUNCHER",
+    "FROGADIER",
+    "CLAWITZER"
+  ],
+  "FROGADIER": [
+    "FROGADIER",
+    "CLAWITZER"
+  ],
+  "BUNNELBY": [
+    "BUNNELBY",
+    "FLETCHLING"
+  ],
+  "DIGGERSBY": [
+    "DIGGERSBY",
+    "FURFROU"
+  ],
+  "SCATTERBUG": [
+    "SCATTERBUG",
+    "SPEWPA"
+  ],
+  "FLAB\u00c9B\u00c9": [
+    "FLAB\u00c9B\u00c9",
+    "SPRITZEE",
+    "SWIRLIX"
+  ],
+  "SPRITZEE": [
+    "SPRITZEE",
+    "SWIRLIX"
+  ],
+  "FLOETTE": [
+    "FLOETTE",
+    "FLORGES"
+  ],
+  "PANGORO": [
+    "PANGORO",
+    "HAWLUCHA"
+  ],
+  "DOUBLADE": [
+    "DOUBLADE",
+    "KLEFKI",
+    "AEGISLASH"
+  ],
+  "KLEFKI": [
+    "KLEFKI",
+    "AEGISLASH"
+  ],
+  "AROMATISSE": [
+    "AROMATISSE",
+    "SLURPUFF",
+    "SYLVEON"
+  ],
+  "SLURPUFF": [
+    "SLURPUFF",
+    "SYLVEON"
+  ],
+  "BINACLE": [
+    "BINACLE",
+    "TYRUNT",
+    "AMAURA"
+  ],
+  "TYRUNT": [
+    "TYRUNT",
+    "AMAURA"
+  ],
+  "BARBARACLE": [
+    "BARBARACLE",
+    "TYRANTRUM",
+    "AURORUS"
+  ],
+  "TYRANTRUM": [
+    "TYRANTRUM",
+    "AURORUS"
+  ],
+  "HELIOPTILE": [
+    "HELIOPTILE",
+    "HELIOLISK"
+  ],
+  "PHANTUMP": [
+    "PHANTUMP",
+    "PUMPKABOO"
+  ],
+  "TREVENANT": [
+    "TREVENANT",
+    "GOURGEIST"
+  ],
+  "ROWLET": [
+    "ROWLET",
+    "SHIINOTIC",
+    "DARTRIX",
+    "LURANTIS",
+    "TSAREENA",
+    "DECIDUEYE",
+    "TAPU BULU",
+    "KARTANA"
+  ],
+  "SHIINOTIC": [
+    "SHIINOTIC",
+    "DARTRIX",
+    "LURANTIS",
+    "TSAREENA",
+    "DECIDUEYE",
+    "TAPU BULU",
+    "KARTANA"
+  ],
+  "DARTRIX": [
+    "DARTRIX",
+    "LURANTIS",
+    "TSAREENA",
+    "DECIDUEYE",
+    "TAPU BULU",
+    "KARTANA"
+  ],
+  "LURANTIS": [
+    "LURANTIS",
+    "TSAREENA",
+    "DECIDUEYE",
+    "TAPU BULU",
+    "KARTANA"
+  ],
+  "TSAREENA": [
+    "TSAREENA",
+    "DECIDUEYE",
+    "TAPU BULU",
+    "KARTANA"
+  ],
+  "DECIDUEYE": [
+    "DECIDUEYE",
+    "TAPU BULU",
+    "KARTANA"
+  ],
+  "TAPU BULU": [
+    "TAPU BULU",
+    "KARTANA"
+  ],
+  "TORRACAT": [
+    "TORRACAT",
+    "ORICORIO",
+    "TURTONATOR",
+    "INCINEROAR"
+  ],
+  "ORICORIO": [
+    "ORICORIO",
+    "TURTONATOR",
+    "INCINEROAR"
+  ],
+  "TURTONATOR": [
+    "TURTONATOR",
+    "INCINEROAR"
+  ],
+  "POPPLIO": [
+    "POPPLIO",
+    "PYUKUMUKU",
+    "BRIONNE",
+    "ARAQUANID",
+    "BRUXISH",
+    "PRIMARINA",
+    "TAPU FINI",
+    "WISHIWASHI"
+  ],
+  "PYUKUMUKU": [
+    "PYUKUMUKU",
+    "BRIONNE",
+    "ARAQUANID",
+    "BRUXISH",
+    "PRIMARINA",
+    "TAPU FINI",
+    "WISHIWASHI"
+  ],
+  "BRIONNE": [
+    "BRIONNE",
+    "ARAQUANID",
+    "BRUXISH",
+    "PRIMARINA",
+    "TAPU FINI",
+    "WISHIWASHI"
+  ],
+  "ARAQUANID": [
+    "ARAQUANID",
+    "BRUXISH",
+    "PRIMARINA",
+    "TAPU FINI",
+    "WISHIWASHI"
+  ],
+  "BRUXISH": [
+    "BRUXISH",
+    "PRIMARINA",
+    "TAPU FINI",
+    "WISHIWASHI"
+  ],
+  "PRIMARINA": [
+    "PRIMARINA",
+    "TAPU FINI",
+    "WISHIWASHI"
+  ],
+  "TAPU FINI": [
+    "TAPU FINI",
+    "WISHIWASHI"
+  ],
+  "PIKIPEK": [
+    "PIKIPEK",
+    "STUFFUL",
+    "TRUMBEAK",
+    "GUMSHOOS",
+    "KOMALA",
+    "TOUCANNON",
+    "DRAMPA",
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "STUFFUL": [
+    "STUFFUL",
+    "TRUMBEAK",
+    "GUMSHOOS",
+    "KOMALA",
+    "TOUCANNON",
+    "DRAMPA",
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "TRUMBEAK": [
+    "TRUMBEAK",
+    "GUMSHOOS",
+    "KOMALA",
+    "TOUCANNON",
+    "DRAMPA",
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "GUMSHOOS": [
+    "GUMSHOOS",
+    "KOMALA",
+    "TOUCANNON",
+    "DRAMPA",
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "KOMALA": [
+    "KOMALA",
+    "TOUCANNON",
+    "DRAMPA",
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "TOUCANNON": [
+    "TOUCANNON",
+    "DRAMPA",
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "DRAMPA": [
+    "DRAMPA",
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "ORANGURU": [
+    "ORANGURU",
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "BEWEAR": [
+    "BEWEAR",
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "TYPE: NULL": [
+    "TYPE: NULL",
+    "SILVALLY"
+  ],
+  "GRUBBIN": [
+    "GRUBBIN",
+    "CUTIEFLY",
+    "CHARJABUG",
+    "RIBOMBEE",
+    "VIKAVOLT",
+    "GOLISOPOD",
+    "BUZZWOLE",
+    "PHEROMOSA"
+  ],
+  "CUTIEFLY": [
+    "CUTIEFLY",
+    "CHARJABUG",
+    "RIBOMBEE",
+    "VIKAVOLT",
+    "GOLISOPOD",
+    "BUZZWOLE",
+    "PHEROMOSA"
+  ],
+  "CHARJABUG": [
+    "CHARJABUG",
+    "RIBOMBEE",
+    "VIKAVOLT",
+    "GOLISOPOD",
+    "BUZZWOLE",
+    "PHEROMOSA"
+  ],
+  "RIBOMBEE": [
+    "RIBOMBEE",
+    "VIKAVOLT",
+    "GOLISOPOD",
+    "BUZZWOLE",
+    "PHEROMOSA"
+  ],
+  "VIKAVOLT": [
+    "VIKAVOLT",
+    "GOLISOPOD",
+    "BUZZWOLE",
+    "PHEROMOSA"
+  ],
+  "GOLISOPOD": [
+    "GOLISOPOD",
+    "BUZZWOLE",
+    "PHEROMOSA"
+  ],
+  "BUZZWOLE": [
+    "BUZZWOLE",
+    "PHEROMOSA"
+  ],
+  "CRABRAWLER": [
+    "CRABRAWLER",
+    "CRABOMINABLE",
+    "PASSIMIAN"
+  ],
+  "CRABOMINABLE": [
+    "CRABOMINABLE",
+    "PASSIMIAN"
+  ],
+  "LYCANROC": [
+    "LYCANROC",
+    "MINIOR",
+    "NIHILEGO"
+  ],
+  "MINIOR": [
+    "MINIOR",
+    "NIHILEGO"
+  ],
+  "MAREANIE": [
+    "MAREANIE",
+    "SALANDIT"
+  ],
+  "FOMANTIS": [
+    "FOMANTIS",
+    "MORELULL",
+    "STEENEE"
+  ],
+  "MORELULL": [
+    "MORELULL",
+    "STEENEE"
+  ],
+  "PALOSSAND": [
+    "PALOSSAND",
+    "DHELMISE"
+  ],
+  "TAPU LELE": [
+    "TAPU LELE",
+    "NECROZMA",
+    "SOLGALEO",
+    "LUNALA"
+  ],
+  "NECROZMA": [
+    "NECROZMA",
+    "SOLGALEO",
+    "LUNALA"
+  ],
+  "SOLGALEO": [
+    "SOLGALEO",
+    "LUNALA"
+  ],
+  "COSMOG": [
+    "COSMOG",
+    "COSMOEM"
+  ],
+  "CELESTEELA": [
+    "CELESTEELA",
+    "MAGEARNA"
+  ]
+}
