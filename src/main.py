@@ -2,6 +2,8 @@ import pandas as pd
 import os
 from evolution_chains import get_evolution_chain
 import matplotlib.pyplot as plt
+from team_analyzer import TeamAnalyzer
+import seaborn as sns
 
 def calculate_stat_changes(base_pokemon, evolved_form):
     """Calculate stat differences between forms"""
@@ -229,6 +231,80 @@ def analyze_evolution_options(pokemon_name, df):
     
     return "\n".join(output)
 
+def analyze_team(df: pd.DataFrame) -> None:
+    """Team analysis interface"""
+    analyzer = TeamAnalyzer(df)
+    
+    print("\n🎮 Pokemon Team Analyzer")
+    team = input("Enter your team of 6 Pokemon (comma-separated):\n").strip().split(',')
+    team = [p.strip() for p in team]
+    
+    if len(team) != 6:
+        print("⚠️ Please enter exactly 6 Pokemon!")
+        return
+    
+    try:
+        analysis = analyzer.analyze_team(team)
+        analyzer.visualize_team_coverage(team)
+        
+        print("\n📊 Team Analysis Report")
+        
+        # Duplicates
+        if analysis['balance']['duplicates']:
+            print("\n⚠️ Duplicate Pokemon:")
+            for name, count in analysis['balance']['duplicates'].items():
+                print(f"- {name} (x{count})")
+        
+        # Coverage
+        print("\n🛡️ Defensive Coverage:")
+        print(f"Weaknesses: {', '.join(analysis['defense']['weaknesses'])}")
+        print(f"Resistances: {', '.join(analysis['defense']['resistances'])}")
+        
+        print("\n⚔️ Offensive Coverage:")
+        print(f"Types: {', '.join(analysis['offense'])}")
+        
+        # Stats
+        print("\n📈 Team Stats (Average):")
+        for stat, values in analysis['balance']['stats'].items():
+            print(f"{stat.upper()}: {values['avg']:.1f} (Range: {values['min']}-{values['max']})")
+        
+        # Suggestions
+        if analysis['suggestions']:
+            print("\n💡 Improvement Suggestions:")
+            
+            for suggestion in analysis['suggestions']:
+                if suggestion['type'] == 'duplicate':
+                    print(f"\nReplace extra {suggestion['pokemon']} with:")
+                    for replacement in suggestion['replacements']:
+                        print(f"- {replacement['name']} ({replacement['types']}) - "
+                              f"Base Total: {replacement['base_total']} - "
+                              f"{replacement['evolution_stage']}"
+                              f"{' (Can evolve!)' if replacement['can_evolve'] else ''}")
+                
+                elif suggestion['type'] == 'weakness':
+                    print(f"\nTo cover {suggestion['weakness']} weakness, consider:")
+                    for counter in suggestion['counters']:
+                        print(f"- {counter['name']} ({counter['types']}) - "
+                              f"Base Total: {counter['base_total']} - "
+                              f"{counter['evolution_stage']}"
+                              f"{' (Can evolve!)' if counter['can_evolve'] else ''}")
+        
+        print("\n📊 Team coverage chart saved as 'team_coverage.png'")
+        
+    except IndexError:
+        print("❌ Error: One or more Pokemon not found in database")
+    except Exception as e:
+        print(f"❌ An error occurred: {str(e)}")
+
+def show_menu():
+    """Display interactive menu options"""
+    print("\n🔍 Pokemon Evolution Advisor")
+    print("1. Analyze specific Pokemon")
+    print("2. Show dataset overview")
+    print("3. Compare multiple Pokemon")
+    print("4. Analyze team composition")
+    print("5. Exit")
+
 def main():
     try:
         script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -238,22 +314,80 @@ def main():
         if 'total_stats' not in df.columns:
             df['total_stats'] = df[['hp', 'attack', 'defense', 'sp_attack', 'sp_defense', 'speed']].sum(axis=1)
         
-        print("\nPokemon Evolution Advisor")
-        print("Enter a Pokemon name to see evolution analysis and recommendations.")
-        
         while True:
-            pokemon_name = input("\nEnter Pokemon name (or 'quit' to exit): ").strip()
+            show_menu()
+            choice = input("\nEnter your choice (1-5): ")
             
-            if pokemon_name.lower() == 'quit':
+            if choice == '1':
+                pokemon_name = input("\nEnter Pokemon name: ").strip().lower()
+                if pokemon_name == 'quit':
+                    break
+                print(analyze_evolution_options(pokemon_name, df))
+                
+            elif choice == '2':
+                display_dataset_overview(df)
+                
+            elif choice == '3':
+                pokemon_list = input("\nEnter Pokemon names (comma-separated): ").strip()
+                pokemon_names = [name.strip() for name in pokemon_list.split(',')]
+                
+                print("\n🔄 Comparing Pokemon:")
+                for name in pokemon_names:
+                    pokemon_data = df[df['name'].str.lower() == name.lower()]
+                    if len(pokemon_data) == 0:
+                        print(f"\n❌ Pokemon '{name}' not found!")
+                        continue
+                    
+                    pokemon = pokemon_data.iloc[0]
+                    print(f"\n📊 {pokemon['name']}:")
+                    print(f"Types: {pokemon['type1']}" + 
+                          (f"/{pokemon['type2']}" if pd.notna(pokemon['type2']) else ""))
+                    print(f"HP: {pokemon['hp']}")
+                    print(f"Attack: {pokemon['attack']}")
+                    print(f"Defense: {pokemon['defense']}")
+                    print(f"Sp. Attack: {pokemon['sp_attack']}")
+                    print(f"Sp. Defense: {pokemon['sp_defense']}")
+                    print(f"Speed: {pokemon['speed']}")
+                    print(f"Total: {pokemon['total_stats']}")
+                
+            elif choice == '4':
+                analyze_team(df)
+                
+            elif choice == '5':
                 print("\nThanks for using the Pokemon Evolution Advisor!")
                 break
-            
-            print(analyze_evolution_options(pokemon_name, df))
+                
+            else:
+                print("\n❌ Invalid choice. Please select 1-5.")
             
     except FileNotFoundError:
         print(f"Error: Pokemon database file not found at {csv_path}")
     except Exception as e:
         print(f"An error occurred: {str(e)}")
+
+def display_dataset_overview(df):
+    """Display basic information about the dataset"""
+    print("\n📝 Dataset Overview:")
+    print(f"Total number of Pokemon: {len(df)}")
+    print(f"Number of generations: {df['generation'].nunique()}")
+    print(f"Number of unique types: {df['type1'].nunique()}")
+    
+    print("\n📊 Statistical Summary of Base Stats:")
+    stats_cols = ['hp', 'attack', 'defense', 'sp_attack', 'sp_defense', 'speed', 'total_stats']
+    stats_summary = df[stats_cols].describe()
+    
+    # Format and display stats summary
+    for stat in stats_cols:
+        print(f"\n{stat.upper()}:")
+        print(f"  Average: {stats_summary.loc['mean', stat]:.1f}")
+        print(f"  Minimum: {stats_summary.loc['min', stat]:.0f}")
+        print(f"  Maximum: {stats_summary.loc['max', stat]:.0f}")
+    
+    print("\n🔝 Top 5 Pokemon by total stats:")
+    top_pokemon = df.nlargest(5, 'total_stats')[['name', 'type1', 'type2', 'total_stats']]
+    for _, pokemon in top_pokemon.iterrows():
+        types = f"{pokemon['type1']}" + (f"/{pokemon['type2']}" if pd.notna(pokemon['type2']) else "")
+        print(f"  {pokemon['name']} ({types}): {pokemon['total_stats']:.0f}")
 
 if __name__ == "__main__":
     main()
